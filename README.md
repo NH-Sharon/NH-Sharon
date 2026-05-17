@@ -1,29 +1,188 @@
-<h1 align="center">Assalamu Alaikum This Is Najmul Hasan Sharon</h1>
-<h3 align="center">A passionate DevOps Engineer From Bangladesh.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nh-sharon&label=Profile%20views&color=0e75b6&style=flat" alt="nh-sharon" /> </p>
+# ⚡ Najmul Hasan Sharon
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nh-sharon" alt="nh-sharon" /></a> </p>
+### 🚀 DevOps Engineer • Cloud & Data Architect • Platform Engineer
 
-- 🔭 I’m currently working on **DevOps**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=DevOps+Engineer;Data+Architecture+Specialist;Cloud+Infrastructure+Engineer;CI%2FCD+%7C+Kubernetes+%7C+Docker;AWS+%7C+Azure+%7C+Oracle+Cloud" />
 
-- 🌱 I’m currently learning **DevSecOps & Cloud DevOps**
-
-- 💬 Ask me about **DevOps,OBIEE**
-
-- 📫 How to reach me **sharon1911.rmstu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/najmul hasan sharon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="najmul hasan sharon" height="30" width="40" /></a>
-<a href="https://fb.com/najmul hasan sharon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="najmul hasan sharon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@SkillShareStudio.3s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="najmulhasansharon" height="30" width="40" /></a>
-<a href="https://www.credly.com/users/najmul-hasan-sharon/badges#credly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharon1911.rmstu@gmail.com" height="30" width="40" /></a>
+<p>
+<img src="https://komarev.com/ghpvc/?username=nh-sharon&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nh-sharon&show_icons=true&locale=en&layout=compact" alt="nh-sharon" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nh-sharon&show_icons=true&locale=en" alt="nh-sharon" /></p>
+# 💫 About Me
+
+```yaml
+Name: Najmul Hasan Sharon
+Role: DevOps Engineer & Data Architect
+Country: Bangladesh 🇧🇩
+
+Core Expertise:
+  - DevOps Engineering
+  - Data Architecture & Engineering
+  - Cloud Infrastructure Design
+  - CI/CD Automation Pipelines
+  - Distributed Data Systems
+  - ETL / ELT Workflows
+
+Big Data Stack:
+  - Apache Kafka (Streaming)
+  - Apache NiFi (Data Flow)
+  - Apache Spark (Processing)
+  - MinIO (Data Lake)
+  - PostgreSQL / Oracle / MySQL
+  - Data Warehouse Design
+
+Cloud Platforms:
+  - AWS
+  - Azure
+  - Oracle Cloud Infrastructure (OCI)
+
+Currently Focused On:
+  - DevSecOps
+  - Kubernetes Advanced
+  - Cloud Native Architecture
+  - Scalable Data Pipelines
+```
+
+---
+
+# ⚙️ Tech Stack
+
+## ☁️ Cloud Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+</p>
+
+---
+
+## 🚀 DevOps Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,bash,git,github,nginx" />
+</p>
+
+---
+
+## 💻 Programming & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask" />
+</p>
+
+---
+
+## 🗄️ Databases & Messaging
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+</p>
+
+---
+
+# 🧠 Data Architecture Expertise
+
+```diff
++ Real-Time Data Pipelines (Kafka Streaming)
++ Batch Processing Systems (Spark)
++ Data Ingestion Layer (NiFi)
++ Data Lake Architecture (MinIO)
++ ETL / ELT Pipeline Design
++ Data Warehouse Modeling
++ Scalable Data Engineering Systems
+```
+
+---
+
+# 🏆 Certifications
+
+## ☁️ AWS
+- 🥇 AWS Certified Solutions Architect – Associate
+
+---
+
+## ☁️ Oracle Cloud Infrastructure (OCI)
+
+- 🟢 OCI Foundations Associate  
+- 🟢 OCI Architect Associate  
+- 🟢 OCI DevOps Professional  
+- 🟢 OCI Data Science Professional  
+- 🟢 OCI Observability Professional  
+- 🟢 OCI Multicloud Architect Professional  
+- 🟢 Oracle Analytics Cloud Certified Professional  
+- 🟢 Oracle Data Platform Foundations Associate  
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nh-sharon&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nh-sharon&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nh-sharon&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:sharon1911.rmstu@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Philosophy
+
+<div align="center">
+
+### 🚀 *"Design Scalable Systems. Automate Everything. Deliver Reliable Infrastructure & Data."*
+
+</div>
+
+---
+
+# 🧩 Fun DevOps Quote
+
+> “If it works manually, automate it. If it breaks, containerize it. If it scales, orchestrate it.”
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
